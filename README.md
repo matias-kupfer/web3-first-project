@@ -16,7 +16,7 @@ You can use React as a `<script>` tag from a [CDN](https://reactjs.org/docs/cdn-
 
 ## Usage
 
-- Connect to web3 with using the metamask extension for your browser of choice.](https://metamask.io/)
+- Connect to web3 with using the metamask extension for your browser of choice. (https://metamask.io/)
 - Enter the account to which you want to send the Ether
 - Specify the amount
 - (Optional) Add a message
